@@ -6,7 +6,7 @@ Production-ready Astro Docs template optimized for AI-assisted development and D
 
 Deploy this production-ready template directly to Deployxa Cloud.
 
-[![Deploy with Deployxa](branding/deploy-button.svg)](https://deployxa.com/dashboard/new?repo=https%3A%2F%2Fgithub.com%2Fdeployxa-templates%2Fdeployxa-docs&template=docs&framework=static&branch=main&name=deployxa-docs&runtime=Node.js+20&package_manager=npm&build_command=npm+run+build&start_command=npm+run+preview&dockerfile=Dockerfile&version=1.0.0&build_time=50s&image_size=195MB&env_vars=NODE_ENV%2CPORT)
+[![Deploy with Deployxa](branding/deploy-button.svg)](https://deployxa.com/dashboard/new?repo=https://github.com/deployxa-templates/deployxa-docs)
 
 ### Or deploy using the CLI
 
